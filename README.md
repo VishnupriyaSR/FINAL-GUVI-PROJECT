@@ -38,3 +38,23 @@ Build a predictive model for high-risk patients.
 
   4.Model Evaluation
 
+# Project 3 - Industrial Anomaly Detection
+
+# Problem: 
+
+Develop an anomaly detection system for industrial equipment.
+
+# Objective: 
+
+Detect unusual behavior and prevent equipment failure.
+
+# Tasks:
+
+  1.Data Generation/Preprocessing
+
+  2.Anomaly Detection Model
+
+  3.Model Evaluation
+
+  4.Visualization & Reporting
+
