@@ -58,3 +58,23 @@ Detect unusual behavior and prevent equipment failure.
 
   4.Visualization & Reporting
 
+# Project 4 - Finance: Loan Default Prediction
+
+# Problem: 
+
+Predict loan default risk for applicants.
+
+# Objective: 
+
+Assist financial institutions in risk assessment.
+
+# Tasks:
+
+  1.Data Preprocessing
+
+  2.Model Building
+
+  3.Model Evaluation
+
+  4.Interpretability & Reporting
+
